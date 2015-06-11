@@ -1,0 +1,10 @@
+body {
+	font-size: 20px;
+	background-color: red;
+}
+ div #content {
+	width: 20em;
+	height: 10em;
+	background-color: blue;
+	margin: auto;
+}
